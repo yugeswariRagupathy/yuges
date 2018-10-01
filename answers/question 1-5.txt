@@ -1,0 +1,32 @@
+SECTION 1:
+
+ANSWER FOR QUESTION NUMBER 1:
+
+1. MTF 
+	The modulation transfer function is a parameter to characterize the sharpness of the photographic imaging system or a componenet of a system 
+and also measured image quality.It is also known as Spatial frequency response.
+                                
+						
+						
+						MTF = Image Modulation / Object Modulation
+
+
+5. Sensor Selectivity and Sensitivity
+				
+	Sensor Selectivity :
+			
+		Selectivity of a sensor is to characterize the selectively a group of analytes or specifically to a single analyte(measure the specific
+concentration of a substances in the presence of other substances).
+
+	Sensor Sensitivity :
+			
+		Sensor Sensitivity = output signal / Measured property 
+
+
+  EXAMPLE :
+	    Sensitivity refers to the detector's ability to pick up all signals that are emitted from the body using ultrasound scanning.
+	    Selectivity refers to the detector's ability to filter out unwanted signals that give only useful signals.   
+
+
+
+	
