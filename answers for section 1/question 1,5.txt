@@ -3,14 +3,15 @@ SECTION 1:
 ANSWER FOR QUESTION NUMBER 1:
 
 1. MTF 
-	The modulation transfer function is a parameter to characterize the sharpness of the photographic imaging system or a componenet of a system 
-and also measured image quality.It is also known as Spatial frequency response.
-                                
+	The modulation transfer function is a parameter to characterize the sharpness of the photographic imaging system or a componenet of a system and also measured image quality.It is also known as Spatial frequency response.
+	 It is amagnitude of optical tansfer function
+	 			
+				OTP = |OTP|e^iPTF = MTF e^iPTF
+				
+         MTF use properties of fourier transform to provide more general describtion of the image properties of an optical system.
+	
+						MTF = Actual Image Modulation / Ideam image Modulation
 						
-						
-						MTF = Image Modulation / Object Modulation
-
-
 5. Sensor Selectivity and Sensitivity
 				
 	Sensor Selectivity :
