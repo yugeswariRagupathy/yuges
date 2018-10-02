@@ -1,0 +1,134 @@
+SECTION 3:
+
+
+1.HYPOTHESIS TESTING 
+	
+	It is a statistical test to determine whether our assumption of hypothesis for sample of data stands true for the whole population or not .This test simply 
+determines the relationship between two sets of samples. 
+
+
+	TYPES:
+	
+	    1.Simple Hypothesis
+            2.Complex Hypothesis
+            3.Emprical Hypothesis
+	    4.Null Hypothesis
+            5.Alternative Hypothesis
+            6.Logical Hypothesis
+            7.Statistical Hypothesis
+
+		Above testings are used in statistical solutions,business and real life
+
+
+2.CORRELATION
+
+ DEFINITION :
+	
+	It is the process of establishing a relationship or connection between two or more things that are very together over a period of time. 
+		
+	Types of correlation :
+
+            1.positive correlation 
+			
+   			It exists when high values of one variable associate with high values of another variables.
+	   
+	    2.Negative Correlation
+
+			It exists when high values of one variable associate with low values of another variables.
+
+	    3.Zero Correlation 
+
+			It has no correlation between two variables.
+
+	Correlation can vary from +1 to -1 :      
+
+		+1 indicate that high degree of positive correlation.
+		-1 indicate that high degree of negative correlation.
+
+	a.Various methods of computing
+
+		1.Scatter diagram methods
+		2.Karl pearson's co-efficient of correlation
+		3.Spearman's rank correlation coefficient
+		4.Methods of Least squares
+
+	b.Applications of correlations in biomedical engineering and technology, 
+
+		1. Application of cross corrrelation method in cardiac output measurement.
+		2.Using correlation coefficients in ECG waveform for arrhythmia detection.  
+
+	c.P value 
+		
+		The p value is a level marginal significance within statistical hypothesis test representing the probability of occurance of a particular event.
+
+						p = r / square root of (r^2) * (N-2)
+
+
+
+3. For Example, during an expedition to the deserts of Western Australia n=23 marsupial moles were weighted (Look table below)
+
+                                          Weight in g      45 46 47 48 49 50 51 52
+                                          Number of Moles  2   1  3  5  4 2  4  2
+
+          a. Determine the sample mean, variance and the standard deviation from the frequency table
+
+		SOLUTION:
+			
+	          MEAN
+
+				Mean =  summation of x * F  /  summation of F  or n                                           [summation of F = n]
+			
+				x => weight in g
+                                F => Number of moles
+
+                                  Mean (Bar x) = 45*2 + 46*1 + 47*3 + 48*5 + 49*4 + 50*2 + 51*4 + 52*2  / 23
+			
+			                       = 1121 / 23
+				
+			                       = 48.7391304 
+			
+		 VARIANCE 
+
+				sigma = summation of (x - bar x) * F / summation of F or n 
+
+				
+		    TABLE :
+ 				
+			S.NO		X		F		X*F		X - bar X		(X - bar X)^2		(X _ bar X)^2 * F
+
+                        1		45		2		90		-3.7391304		13.98109615		321.5652115
+
+			2		46		1		46		-2.7391304		7.502835348		172.565213
+
+			3		47		3	       141		-1.7391304		3.024574548		69.5652146
+
+			4		48		5	       240		-0.7391304		0.546313748		12.5652162
+
+			5		49		4	       196		 1.7391304		3.024574548		69.5652146
+
+			6		50		2	       100		 2.7391304		7.502835348		172.565213
+
+			7		51		4	       204		 3.7391304		13.98109615		321.5652115
+
+			8		52		2	       104		 4.7391304		22.45935695		516.5652098
+
+			
+				TOTAL			23		1121								1656.521704	
+
+
+
+				sigma = 1656.521704 / 23
+					
+				      = 72.02268279
+
+
+		STANDARD DEVIATION 
+
+			
+				S = square root of (variance)
+ 							
+				  = square root of (72.02268279)
+
+				  = 8.486617865
+
+                
