@@ -1,0 +1,67 @@
+SECTION 4 :
+
+
+4.  In a questionnaire about a set of patient’s health the participants had to report their heigh in cm. Here is the data:
+		
+				165 190 180 169 175 194 176 164 181 188
+	
+	b. Mean and variance
+		
+		SOLUTION :
+ 
+				Above values are taken as X  ;  n = 10
+
+		       Mean (bar x) = summation of X / n 
+
+			     = 165 + 190 + 180 + 169 + 175 + 194 + 176 + 164 + 181 + 188  / 10
+
+			     = 1782 / 10
+
+			     = 178.2
+
+
+		       Variance = summation of (X - bar x)^2 / n
+ 				
+		
+		TABLE : 
+
+					S.NO		X		(x - bar x)^2
+
+					1		165		174.24
+
+					2		190		139.24
+
+					3		180		3.24
+
+					4		169		84.64
+
+					5		175		10.24
+
+					6		194		249.64
+
+					7		176		4.84
+
+					8		164		201.64
+
+					9		181		7.84
+
+					10		188		96.04
+
+				    TOTAL 				971.6
+
+
+				Variance = 971.6 / 10
+
+					 = 97.16
+
+
+	C. Determine a 90% confidence interval for the mean height in the population
+
+		SOLUTION : 
+
+				= Mean + (Z) * Variance 
+
+				= 178.2 + (1.282 * 97.16)
+				
+				= 302.75 
+						
